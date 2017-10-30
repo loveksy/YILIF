@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:57 +0800] "GET /order/order-cart.html HTTP/1.1" 302 - http-bio-8096-exec-1 75
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:49:10 +0800] "GET /order/order-cart.html HTTP/1.1" 200 20584 http-bio-8096-exec-2 3222
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:49:13 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8096-exec-3 3
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:49:26 +0800] "GET /images/indexImg20130307.png HTTP/1.1" 200 55428 http-bio-8096-exec-4 58
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:02:13 +0800] "GET /order/order-cart.html HTTP/1.1" 302 - http-bio-8096-exec-6 13
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:02:29 +0800] "GET /order/order-cart.html HTTP/1.1" 200 22058 http-bio-8096-exec-7 140
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:02:31 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8096-exec-8 9
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:02:42 +0800] "POST /order/create.html HTTP/1.1" 200 19337 http-bio-8096-exec-9 2086

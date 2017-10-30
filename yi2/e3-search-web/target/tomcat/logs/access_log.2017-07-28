@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:40 +0800] "GET /search.html?keyword=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 84629 http-bio-8085-exec-2 4752
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:01:25 +0800] "GET /search.html?keyword=%E4%B8%80%E5%8A%A0%E6%89%8B%E6%9C%BA5 HTTP/1.1" 200 86838 http-bio-8085-exec-4 372

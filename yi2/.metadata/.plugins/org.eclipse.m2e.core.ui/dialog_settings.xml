@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="issueManagementUrl">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-order"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-item-web"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-dao"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-sso-web"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-sso"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-search-web"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-search"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-parent"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-web"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="groupId">
+		</list>
+		<list key="package">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="728" key="height"/>
+		<item value="480" key="width"/>
+		<item value="0" key="y"/>
+		<item value="506" key="x"/>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="e3-order-service"/>
+			<item value="e3-order-interface"/>
+			<item value="e3-cart-service"/>
+			<item value="e3-cart-interface"/>
+			<item value="e3-sso-service"/>
+			<item value="e3-sso-interface"/>
+			<item value="e3-search-service"/>
+			<item value="e3-search-interface"/>
+			<item value="e3-content-service"/>
+			<item value="e3-content-interface"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="cn.e3mall"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="e3-order-web"/>
+			<item value="e3-parent"/>
+			<item value="e3-order-service"/>
+			<item value="e3-order"/>
+			<item value="e3-order-interface"/>
+			<item value="e3-cart-web"/>
+			<item value="e3-cart-service"/>
+			<item value="e3-cart"/>
+			<item value="e3-cart-interface"/>
+			<item value="e3-sso-web"/>
+			<item value="e3-sso-service"/>
+			<item value="e3-sso"/>
+			<item value="e3-sso-interface"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

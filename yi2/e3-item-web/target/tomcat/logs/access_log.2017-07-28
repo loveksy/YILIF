@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /item/149907159586587.html HTTP/1.1" 200 158554 http-bio-8086-exec-1 3663
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/cate_bg.jpg HTTP/1.1" 304 - http-bio-8086-exec-5 50
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/header.png HTTP/1.1" 304 - http-bio-8086-exec-2 93
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8086-exec-6 102
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/index_icon_new.png HTTP/1.1" 304 - http-bio-8086-exec-4 116
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/indexImg20130307.png?v=1.4 HTTP/1.1" 304 - http-bio-8086-exec-3 129
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/foot_bottom.png HTTP/1.1" 304 - http-bio-8086-exec-4 39
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:08:48:46 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8086-exec-3 55
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:01:28 +0800] "GET /item/150120364913475.html HTTP/1.1" 200 161675 http-bio-8086-exec-1 81

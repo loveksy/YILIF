@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\professional_learning\Java\jdk" version="1.7.0_71">
+<bootpath>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\resources.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\rt.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\jsse.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\jce.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\charsets.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\jfr.jar"/>
+<entry path="D:\professional_learning\Java\jdk\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\professional_learning\Java\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\professional_learning\Java\java" version="1.7.0_71">
+<bootpath>
+<entry path="D:\professional_learning\Java\java\lib\resources.jar"/>
+<entry path="D:\professional_learning\Java\java\lib\rt.jar"/>
+<entry path="D:\professional_learning\Java\java\lib\sunrsasign.jar"/>
+<entry path="D:\professional_learning\Java\java\lib\jsse.jar"/>
+<entry path="D:\professional_learning\Java\java\lib\jce.jar"/>
+<entry path="D:\professional_learning\Java\java\lib\charsets.jar"/>
+<entry path="D:\professional_learning\Java\java\lib\jfr.jar"/>
+<entry path="D:\professional_learning\Java\java\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\professional_learning\Java\java\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\professional_learning\Java\java\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

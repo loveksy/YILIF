@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TokenService.java&apos; to &apos;e3-sso-interface/src/main/java/cn.e3mall.sso.service&apos;&#x0D;&#x0A;- Original project: &apos;e3-search-interface&apos;&#x0D;&#x0A;- Destination element: &apos;e3-sso-interface/src/main/java/cn.e3mall.sso.service&apos;&#x0D;&#x0A;- Original element: &apos;cn.e3mall.search.service.TokenService.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=e3-sso-interface/src\/main\/java&lt;cn.e3mall.sso.service" element1="/src\/main\/java&lt;cn.e3mall.search.service{TokenService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1499744846657" units="1" version="1.0"/>
+</session>

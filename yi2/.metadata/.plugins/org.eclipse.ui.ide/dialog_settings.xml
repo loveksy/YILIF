@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\fastdfs_client"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\pagehelper"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-web"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-service"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-pojo"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-interface"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager\e3-manager-dao"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-manager"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-common"/>
+			<item value="D:\professional_learning\Java\newcode\Project\Project2\yi2\e3-parent"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
